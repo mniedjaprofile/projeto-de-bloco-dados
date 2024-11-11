@@ -1,0 +1,28 @@
+tabela = '{dsemana:40}{prato:10}'
+print(tabela.format(dsemana='Segunda', prato='Ovo'))
+print(tabela.format(dsemana='Terça', prato='Carne'))
+
+def print_args(*args):
+    print('Position tuple: ', args)
+print_args(2,5,7,'x')
+print_args(3, 2, 1, 'wait!', 'uh...')
+
+# ==Feitiços Harry Potter
+spells = [
+    "Riddikulus!",
+    "Wingardium Leviosa!",
+    "Avada Kedavra!",
+    "Expecto Patronum!",
+    "Nox!",
+    "Lumos!",
+    ]
+print(spells[4])
+
+quotes = {
+    "Moe": "A wise guy, huh?",
+    "Larry": "Ow!",
+    "Curly": "Nyuk nyuk!"
+}
+stooge = "Curly"
+#print(type(stooge))
+print(stooge, "says:", quotes[stooge])

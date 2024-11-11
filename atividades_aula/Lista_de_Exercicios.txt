@@ -1,0 +1,50 @@
+Exercício 1: Verificação de Idade
+Escreva um programa que solicite ao usuário sua idade e verifique:
+	
+Se ele tem menos de 18 anos, exiba "Você é menor de idade."
+Se ele tem entre 18 e 65 anos, exiba "Você é adulto."
+Se ele tem mais de 65 anos, exiba "Você é idoso."
+
+Exercício 2: Verificador de Par ou Ímpar
+Escreva um programa que solicite um número ao usuário e verifique se o número é par ou ímpar. Exiba a mensagem correspondente.
+
+Exercício 3: Calculadora de Notas
+Escreva um programa que peça ao usuário para digitar três notas (entre 0 e 10) de um aluno. O programa deve calcular a média e determinar a situação do aluno:
+Média maior ou igual a 7: "Aprovado."
+Média entre 5 e 6.9: "Recuperação."
+Média abaixo de 5: "Reprovado."
+
+Exercício 4: Classificação de Temperatura
+Escreva um programa que peça ao usuário a temperatura atual em graus Celsius e exiba uma mensagem:
+Abaixo de 0 graus: "Muito frio."
+Entre 0 e 20 graus: "Frio."
+Entre 21 e 30 graus: "Agradável."
+Acima de 30 graus: "Quente."
+
+Exercício 5: Calculadora Simples
+Escreva um programa que solicite ao usuário dois números e uma operação (adição, subtração, multiplicação ou divisão). O programa deve executar a operação correspondente e exibir o resultado. Se o usuário escolher uma operação inválida, exiba uma mensagem de erro.
+
+Exercício 6: Verificador de Ano Bissexto
+Escreva um programa que peça ao usuário um ano e verifique se é um ano bissexto. Um ano é bissexto se for divisível por 4, exceto se for divisível por 100, a menos que seja divisível por 400.
+
+Exercício 7: Classificação de Peso
+Escreva um programa que solicite o peso e a altura do usuário e calcule o índice de massa corporal (IMC). Com base no IMC, classifique o usuário em:
+Abaixo de 18.5: "Abaixo do peso."
+Entre 18.5 e 24.9: "Peso normal."
+Entre 25 e 29.9: "Sobrepeso."
+30 ou acima: "Obesidade."
+
+Exercício 8: Verificação de Triângulo
+Escreva um programa que peça ao usuário três comprimentos de lados e verifique se eles podem formar um triângulo. Se puderem, determine se o triângulo é equilátero, isósceles ou escaleno.
+
+Exercício 9: Jogo de Adivinhação
+Escreva um programa que escolha aleatoriamente um número entre 1 e 10. O usuário deve tentar adivinhar o número, e o programa deve fornecer dicas se o palpite for maior ou menor que o número. Quando o usuário acertar, exiba uma mensagem de parabéns.
+
+Exercício 10: Conversor de Notas para Letras
+Escreva um programa que solicite ao usuário uma nota numérica (de 0 a 100) e converta essa nota em uma letra conforme a seguinte tabela:
+90 a 100: "A"
+80 a 89: "B"
+70 a 79: "C"
+60 a 69: "D"
+Abaixo de 60: "F"
+	
