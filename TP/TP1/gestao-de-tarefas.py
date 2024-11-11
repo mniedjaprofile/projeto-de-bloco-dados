@@ -22,6 +22,7 @@ def listar_tarefa():
     - Nenhum
     """
     if not tarefas:
+        print(listar_tarefa.__doc__)
         print("Nenhuma tarefa encontrada.")
     else: 
         for i, tarefa in enumerate(tarefas, 1):
