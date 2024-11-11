@@ -1,0 +1,17 @@
+1 - Escreva um programa que solicite ao usuário um número inteiro positivo e exiba os primeiros N termos da sequência de Fibonacci.
+
+2 - Escreva um programa que solicite ao usuário a quantidade de notas que deseja informar, em seguida, use um loop para solicitar essas notas. O programa deve calcular e exibir a média das notas.
+
+3 - Escreva um programa que gere um número aleatório entre 1 e 100 e permita que o usuário tente adivinhar o número. Para cada tentativa, o programa deve informar se o palpite é muito alto, muito baixo ou correto. O jogo continua até que o usuário adivinhe corretamente.
+
+4 - Escreva um programa que solicite ao usuário uma palavra e conte quantas vogais (a, e, i, o, u) existem na palavra.
+
+5 - Escreva um programa que solicite ao usuário um número inteiro positivo e exiba o número na ordem inversa (exemplo: entrada 1234, saída 4321).
+
+6 - Escreva um programa que solicite ao usuário um número inteiro positivo e, em seguida, aplique a sequência de Collatz (ou conjectura de Collatz) até o número se tornar 1. Exiba cada valor da sequência e o número total de passos necessários para alcançar 1.
+
+7 - Escreva um programa que solicite ao usuário uma palavra ou frase e verifique se é um palíndromo (ou seja, se lê da mesma forma de trás para frente, ignorando espaços e pontuações). Use loops e condições para realizar a verificação.
+
+8 - Escreva um programa que solicite ao usuário um número N de notas e seus respectivos pesos. O programa deve calcular e exibir a média ponderada das notas. Utilize loops para processar as entradas e realizar o cálculo.
+
+9 - Escreva um programa que solicite ao usuário um número inteiro positivo e verifique se ele é um número perfeito. Um número perfeito é um número que é igual à soma de seus divisores próprios (excluindo ele mesmo). O programa deve listar todos os divisores e exibir o resultado da verificação.
